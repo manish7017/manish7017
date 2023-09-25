@@ -10,5 +10,3 @@
 <a href="https://instagram.com/_mk_sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mk_sharma_" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish7017&show_icons=true&locale=en" alt="manish7017" /></p>
-
